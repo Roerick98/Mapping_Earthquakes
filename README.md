@@ -6,6 +6,7 @@ Data Sources:
 - https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
 - https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 - https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+
 Software:
 - MapBox APIs
 - D3
